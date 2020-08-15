@@ -4,5 +4,4 @@ from .contentviews import *
 
 course = Course('css',
                 'CSS',
-                [(DemoCSSView,[])],
-                "git@github.com:v-nys/xchk-css-model-solutions.git")
+                [(PageFooterView,[])])
